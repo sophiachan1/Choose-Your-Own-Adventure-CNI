@@ -1,0 +1,90 @@
+body {
+    background-color: #556bfa;
+}
+
+h2 {
+    text-align: center;
+    font-family: architects daughter;
+}
+
+h3 {
+    text-align: center;
+    font-family: staatliches;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 500px;    
+}
+
+.stage2 {
+    display:none;
+}
+
+h4{
+    text-align: center;
+    font-family: bebas neue;
+    border: solid 2px red;
+    background-color: pink;
+}
+
+.seci {
+    float: left;
+    padding: 5px;
+}
+
+.seci::after {
+    content: "";
+    clear: both;
+    display: table;
+}
+
+.stage3 {
+   display:none;
+}
+
+.stage4 {
+   display:none;
+}
+
+h1{
+    text-align: center;
+    font-family: luckiest guy;
+}
+
+.stage5 {
+   display:none;
+}
+
+.stage6 {
+    display:none;
+}
+
+.stage7 {
+    display:none;
+}
+
+.stage8 {
+    display:none;
+}
+
+.stage9 {
+    display:none;
+}
+
+.clock{
+    width:100px;
+    padding: 5px;
+}
+
+.stage10 {
+    display:none;
+}
+
+.dead{
+    font-family: syne mono;
+}
+
+    
